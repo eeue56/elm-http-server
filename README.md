@@ -1,7 +1,14 @@
 # elm-http-server
 A HTTP server for Elm.
 
-:fire: :fire: :fire:
+
+##  Install
+
+You need [elm-proper-install](https://github.com/eeue56/elm-proper-install) to install this package
+
+```
+elm-proper-install eeue56/elm-http-server
+```
 
 
 
